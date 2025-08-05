@@ -1,10 +1,10 @@
 // src/store/index.ts
 import { configureStore } from '@reduxjs/toolkit'
-import ultilReducer from './slices/ultil'
+import ultilReducer from './slices/util'
 
 export const store = configureStore({
   reducer: {
-    ultil: ultilReducer,
+    util: ultilReducer,
   },
 })
 

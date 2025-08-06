@@ -116,7 +116,8 @@ export default function SignInPage() {
     //     </View>
     //   </View>
     // </SafeAreaView>
-    <View></View>
+    <View>
+    </View>
   )
 }
 
